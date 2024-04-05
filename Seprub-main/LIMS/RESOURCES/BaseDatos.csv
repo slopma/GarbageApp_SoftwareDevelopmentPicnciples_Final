@@ -1,0 +1,46 @@
+﻿Nombre;Tipo;Deposito
+Chicle;Inorgánico;Caneca café/negra
+Botella;Plástico;Caneca amarilla
+Paquete de papel;Papel;Caneca azul
+Servilleta;Desechable;Caneca café/negra
+Cáscara de fruta;Orgánico;Caneca verde
+Cáscara de verdura;Orgánico;Caneca verde
+Verdura;Orgánico;Caneca verde
+Fruta;Orgánico;Caneca verde
+Hoja;Orgánico;Caneca verde
+Rama;Orgánico;Caneca verde
+Papel higiénico;Desechable;Caneca café/negra
+Toallas sanitarias;Desechable;Caneca café/negra
+Papel toalla;Desechable;Caneca café/negra
+Envase de plástico;Plástico;Caneca amarilla
+Envase de vidrio;Vidrio;Caneca verde
+Envase metálico;Metal;Caneca blanca
+Batería;Peligroso;Punto limpio
+Pila;Peligroso;Punto limpio
+Aceite usado;Peligroso;Punto limpio
+Pintura;Peligroso;Punto limpio
+Fármaco;Peligroso;Punto limpio
+Electrodoméstico;Reciclable;Punto limpio
+Muebles;Reciclable;Punto limpio
+Ropa;Reciclable;Punto limpio
+Cartón;Reciclable;Caneca azul
+Madera;Reciclable;Punto limpio
+Metal;Reciclable;Caneca blanca
+Calzado;Reciclable;Punto limpio
+Juguete;Reciclable;Punto limpio
+Cable;Reciclable;Punto limpio
+Papel aluminio;Reciclable;Caneca amarilla
+Servilletas de papel;Reciclable;Caneca azul
+Pañal;Desechable;Caneca café/negra
+Toallitas húmeda;Desechable;Caneca café/negra
+Desmaquillante;Peligroso;Punto limpio
+Perfumes;Peligroso;Punto limpio
+Desodorantes;Peligroso;Punto limpio
+Limpiadores doméstico;Peligroso;Punto limpio
+Plaguicidas;Peligroso;Punto limpio
+Pinturas;Peligroso;Punto limpio
+Baterías de auto;Peligroso;Punto limpio
+Neumático;Reciclable;Punto limpio
+Residuos de construcción;Reciclable;Punto limpio
+Residuos de poda;Orgánico;Caneca verde
+Residuos de jardinería;Orgánico;Caneca verde
